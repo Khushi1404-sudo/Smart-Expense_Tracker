@@ -22,10 +22,3 @@ An interactive, sleek personal budget dashboard built with **Streamlit** and **P
 - 📱 **Sidebar Control Center:** Easily configure fixed monthly bills and set dynamic target budgets.
 
 ---
-
-## 💻 How to Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Khushi1404-sudo/Smart-Expense-Tracker.git](https://github.com/Khushi1404-sudo/Smart-Expense-Tracker.git)
-   cd Smart-Expense-Tracker
